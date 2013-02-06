@@ -11,6 +11,6 @@ b) instantiate your button:
 
 3. Set your own images for the button's normal and highlighted states. If you use PNG images with transparency, you will be able to "tap through" the button to the views behind it. This allows you to create buttons all kinds of shapes and sizes, which can be placed very close to each other.
 
-License: use it however and wherever you feel like. Link back to me for double plus good karma.
+License: use it however and wherever you feel like.
 
 Copyright 2012 by Zev Eisenberg, Zev@ZevEisenberg.com, www.ZevEisenberg.com

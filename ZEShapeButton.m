@@ -7,8 +7,6 @@
 
 @implementation ZEShapeButton
 
-@synthesize shape;
-
 - (UIView *)hitTest:(CGPoint)point withEvent:(UIEvent *)event
 {
     if (!self.shape)
